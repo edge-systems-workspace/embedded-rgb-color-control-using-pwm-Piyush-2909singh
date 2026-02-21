@@ -17,7 +17,7 @@
 #define BLUE_PIN 11
 
 /**
- * @brief System initialization for RGB pins and serial communication
+ * @brief System initialization for RGB pins and serial communication.
  */
 void setup() {
     Serial.begin(9600);
